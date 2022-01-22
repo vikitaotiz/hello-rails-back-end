@@ -2,7 +2,7 @@
 > A Rails API that generate random greetings from different languages.
 
 ## Live Demo
-> Check out the front end app at  [Hello-React-Front-End](https://github.com/vikitaotiz/hello-react-front-end)
+> Check out the front end app at  [Hello-React-Front-End](https://github.com/vikitaotiz/hello-rails-front-end.git)
 ## Built With
 
 - Ruby on Rails
